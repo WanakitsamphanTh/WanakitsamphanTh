@@ -2,7 +2,7 @@
 ### Proficient in 
 <img src="https://skillicons.dev/icons?i=cpp,python,go,javascript" />
 
-### Also know
+### Also have some knowledge of
 <img src="https://skillicons.dev/icons?i=cs,java,rust,php,bash" />
 
 # Web Development
