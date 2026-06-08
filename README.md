@@ -1,3 +1,12 @@
+# Hi There!
+⚙️🧑🏻‍💻*com sci* \
+📸 *photograph* \
+🧑‍🎓 *lifetime student* \
+🐶 *dog person* 
+
+# Stats
+![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/WanakitsamphanTh)
+
 # Programming
 ### Proficient in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "60px" />
