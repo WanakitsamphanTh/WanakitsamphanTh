@@ -1,4 +1,5 @@
-         
+[![WanakitsamphanTh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanakitsamphanTh)](https://github.com/anuraghazra/github-readme-stats)
+
 # Programming
 ### Proficient in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "60px" />
