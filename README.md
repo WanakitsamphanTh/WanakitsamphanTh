@@ -4,6 +4,13 @@
 🧑‍🎓 *lifetime student* \
 🐶 *dog person* 
 
+# I'm currently learning
+📖 x86 assembly
+📖 OS and computer architecture
+📖 Haskell programming
+📖 Building a compiler backend
+📖 Security and formal methods
+
 # Stats
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/WanakitsamphanTh)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanakitsamphanTh&layout=compact&hide=jupyter%20notebook)
