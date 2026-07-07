@@ -16,7 +16,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WanakitsamphanTh&layout=compact&hide=jupyter%20notebook)
 
 # Programming
-### Proficient in
+### Experienced in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "60px" />
 
 ### Learning
