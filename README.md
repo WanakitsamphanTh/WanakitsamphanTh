@@ -5,10 +5,11 @@
 🐶 *dog person* 
 
 # I'm currently learning
-📖 x86 assembly
-📖 OS and computer architecture
-📖 Haskell programming
-📖 Building a compiler backend
+📖 x86-64 assembly \
+📖 AARCH64 assembly \
+📖 OS and computer architecture \
+📖 Haskell programming \
+📖 Building a compiler backend \
 📖 Security and formal methods
 
 # Stats
