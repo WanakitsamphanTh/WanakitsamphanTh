@@ -6,10 +6,10 @@
 
 # I'm currently learning
 📖 x86-64 assembly \
-📖 AARCH64 assembly \
+📖 Aarch64 assembly \
 📖 OS and computer architecture \
 📖 Haskell programming \
-📖 Building a compiler backend \
+📖 Compiler and programming language design \
 📖 Security and formal methods
 
 # Stats
