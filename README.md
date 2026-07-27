@@ -7,10 +7,15 @@
 # I'm currently learning
 📖 x86-64 assembly \
 📖 Aarch64 assembly \
+📖 Embedding system & bare-metal programming \
 📖 OS and computer architecture \
 📖 Haskell programming \
 📖 Compiler and programming language design \
 📖 Security and formal methods
+
+# Current Projects
+⚙️ Implementing an interpreter for a Lisp dialect in x86-64 Assembly [(repo)](https://github.com/WanakitsamphanTh/lisp-asm)
+⚙️ Implementing a compiler for my programming language in C++
 
 # Stats
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/WanakitsamphanTh)
