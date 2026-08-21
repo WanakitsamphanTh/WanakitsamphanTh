@@ -14,8 +14,10 @@
 📖 Security and formal methods
 
 # Current Projects
-⚙️ Implementing an interpreter for a Lisp dialect in x86-64 Assembly [(repo)](https://github.com/WanakitsamphanTh/lisp-asm)
-⚙️ Implementing a compiler for my programming language in C++
+⚙️ Implementing an arena allocator
+⚙️ Implementing a temporal logic based model checker
+⚙️ Implementing an HTTP server and MQTT broker from scratch
+⚙️ Implementing a compiler for my programming language in C/C++
 
 # Stats
 ![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/WanakitsamphanTh)
@@ -23,13 +25,12 @@
 
 # Programming
 ### Experienced in
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "60px" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "60px" />
 ### Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height = "60px"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height = "60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height = "60px" /> <img height="60px" alt="image" src="https://github.com/user-attachments/assets/84dd975e-2633-45e0-aaea-d8a5e18c70bb" />
 
 ### Also have some knowledge of
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height = "60px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height = "60px" /> 
 
 # Fullstack development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height = "60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" height = "60px"  />
